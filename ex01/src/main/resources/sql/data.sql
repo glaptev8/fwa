@@ -1,0 +1,1 @@
+INSERT INTO users (username, password, lastname, phone) VALUES ('admin', 'admin', 'admin', '88005553535')
